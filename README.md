@@ -20,7 +20,7 @@
 ----
 
 ## :newspaper_roll: Estrutura do Projeto: 
-- Na pasta *images* estão os Planos de fluxo de trabalho, para melhor visualização. Além disso, há 3 PDFs: *Fluxo de trabalho e Cliclo de vida do Bug*, *User Store 1 - Cenários de teste, Ciclo de teste e Mind-map* e *User Store 2 - Cenários de teste, Ciclo de teste e Mind-map*.
+- Na pasta **images** estão os Planos de fluxo de trabalho, para melhor visualização. Além disso, há 3 PDFs: **Fluxo de trabalho e Cliclo de vida do Bug**, **User Store 1 - Cenários de teste, Ciclo de teste e Mind-map** e **User Store 2 - Cenários de teste, Ciclo de teste e Mind-map**.
 
 
 ---- 
